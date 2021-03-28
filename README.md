@@ -1,1 +1,1 @@
-# code-parts
+# Simple parts of my code
